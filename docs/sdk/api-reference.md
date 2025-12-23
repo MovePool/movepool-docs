@@ -18,7 +18,7 @@ new MovePoolClient(config: MovePoolConfig)
 | `config.contractAddress` | `string`                             | Deployed contract address      |
 | `config.rpcUrl`          | `string?`                            | Optional custom RPC URL        |
 | `config.tokenDecimals`   | `number?`                            | Token decimals (default: 6)    |
-| `config.tokenSymbol`     | `string?`                            | Token symbol (default: 'USDC') |
+| `config.tokenSymbol`     | `string?`                            | Token symbol (default: 'MOVE') |
 
 ---
 

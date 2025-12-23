@@ -41,7 +41,7 @@ console.log(`Tickets: ${position.tickets}`);
 | `contractAddress` | `string`                             | ✅       | Contract address                 |
 | `rpcUrl`          | `string`                             | ❌       | Custom RPC (auto-detected)       |
 | `tokenDecimals`   | `number`                             | ❌       | Token decimals (default: 6)      |
-| `tokenSymbol`     | `string`                             | ❌       | Display symbol (default: 'USDC') |
+| `tokenSymbol`     | `string`                             | ❌       | Display symbol (default: 'MOVE') |
 
 ## Read Methods
 
