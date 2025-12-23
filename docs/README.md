@@ -74,3 +74,4 @@ console.log(`Prize: ${client.formatAmount(pool.accumulatedPrize)} MOVE`);
 ```
 
 [Read SDK Documentation →](sdk/README.md)
+
