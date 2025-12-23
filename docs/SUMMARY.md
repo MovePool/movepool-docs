@@ -1,11 +1,28 @@
 # Summary
 
-* [Introduction](README.md)
-* [Quickstart](quickstart.md)
-* [Protocol Overview](protocol/README.md)
+## Welcome
 
-## Runbooks
+- [Introduction](README.md)
 
-* [Demo Playbook](runbooks/demo-playbook.md)
-* [Vercel Redeploy](runbooks/vercel-redeploy.md)
-* [GitBook Sync Setup](runbooks/gitbook-sync.md)
+## Getting Started
+
+- [Quickstart](getting-started/quickstart.md)
+- [How It Works](getting-started/how-it-works.md)
+
+## Protocol
+
+- [Overview](protocol/overview.md)
+- [Smart Contracts](protocol/smart-contracts.md)
+- [Tokenomics](protocol/tokenomics.md)
+- [Security](protocol/security.md)
+
+## SDK & Integration
+
+- [SDK Reference](sdk/README.md)
+- [API Reference](sdk/api-reference.md)
+
+## Resources
+
+- [FAQ](resources/faq.md)
+- [Glossary](resources/glossary.md)
+- [Links](resources/links.md)
